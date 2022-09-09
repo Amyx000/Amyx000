@@ -1,7 +1,7 @@
 <h1 align="center">💫 Welcome 👋 I'm Arman Kazi</h1>
 <h3 align="center">I'm a Mern Stack Developer, Love to build frontend using React.js and I love Pure CSS >>> Frameworks😉</h3><br/>
 
-![image](https://user-images.githubusercontent.com/104687128/187681780-941d00d8-2707-45f8-8273-e1c39d0ecf23.png)
+<img align="center" src="https://user-images.githubusercontent.com/104687128/187681780-941d00d8-2707-45f8-8273-e1c39d0ecf23.png" alt="amyx000" />
 
 ---
 # 💻 Tech Stack:
