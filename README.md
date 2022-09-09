@@ -1,5 +1,5 @@
-# 💫 Welcome 👋
-Hey there, I'm Arman a Mern Stack Developer, Love to build frontend using React.js and I love Pure CSS >>> Frameworks😉
+<h1 align="center">💫 Welcome 👋 I'm Arman Kazi</h1>
+<h3 align="center">I'm a Mern Stack Developer, Love to build frontend using React.js and I love Pure CSS >>> Frameworks😉</h3><br/>
 
 ![image](https://user-images.githubusercontent.com/104687128/187681780-941d00d8-2707-45f8-8273-e1c39d0ecf23.png)
 
@@ -9,10 +9,11 @@ Hey there, I'm Arman a Mern Stack Developer, Love to build frontend using React.
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amyx000&theme=flag-india&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Amyx000&theme=flag-india&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amyx000&theme=flag-india&hide_border=false)<br/>
 
 ---
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Armankazi111) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9728909) 
+<a href="https://twitter.com/armankazi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armankazi111" height="30" width="40" /></a>
+</p>
