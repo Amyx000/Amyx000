@@ -14,6 +14,12 @@
 
 ---
 
+## Badges:
+[![@armankazi's Holopin board](https://holopin.io/api/user/board?user=armankazi)](https://holopin.io/@armankazi)
+
+---
+
 ## 🌐 Socials:
 <a href="https://twitter.com/armankazi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armankazi111" height="30" width="40" /></a>
 </p>
+
