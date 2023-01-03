@@ -20,9 +20,9 @@
 ---
 
 ## 🌐 Socials:
-<a href="https://twitter.com/armankazi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armankazi111" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/armankazi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9728909/arman-kazi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/armankazi111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armankazi111" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/armankazi" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9728909/arman-kazi" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="" height="30" width="40" /></a>
 </p>
 
 
