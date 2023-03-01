@@ -1,7 +1,7 @@
 <h1 align="center">💫 Welcome 👋 I'm Arman Kazi</h1>
 <h3 align="center">I'm a Mern Stack Developer, Love to build frontend using React.js and I love Pure CSS >>> Frameworks😉</h3><br/>
 
-<img align="center" src="https://user-images.githubusercontent.com/104687128/187681780-941d00d8-2707-45f8-8273-e1c39d0ecf23.png" alt="amyx000" />
+<img align="center" src="https://user-images.githubusercontent.com/104687128/222054378-2df8d511-83d2-4929-a94e-4482922cd131.png" alt="amyx000" />
 
 ---
 # 💻 Tech Stack:
@@ -24,5 +24,3 @@
 <a href="https://www.linkedin.com/in/armankazi" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/9728909/arman-kazi" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="" height="40" width="40" /></a>
 </p>
-
-
