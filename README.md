@@ -1,5 +1,5 @@
-<h1 align="center">💫 Welcome 👋 I'm Arman Kazi</h1>
-<h3 align="center">I'm a Mern Stack Developer, Love to build frontend using React.js and I love Pure CSS >>> Frameworks😉</h3><br/>
+<h1 align="center">💫 Hello there! 👋 I'm Arman Kazi</h1>
+<h3 align="center">I’m a Full Stack Developer fueled by a love for challenges and a commitment to helping others. I specialize in creating dynamic frontends with React.js and have a soft spot for the simplicity of Pure CSS over frameworks. Let’s join forces to conquer new horizons together!</h3><br/>
 
 <img align="center" src="https://user-images.githubusercontent.com/104687128/222054378-2df8d511-83d2-4929-a94e-4482922cd131.png" alt="amyx000" />
 
